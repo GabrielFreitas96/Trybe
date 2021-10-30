@@ -1,4 +1,4 @@
-##Trybe - Exercícios##
+#Trybe - Exercício
 
 Contém todas as atividades desenvolvidas por mim durante minha tragetória na Trybe rocket
 
@@ -7,6 +7,7 @@ Contém todas as atividades desenvolvidas por mim durante minha tragetória na T
 Fundamentos do Desenvolvimento Web heavy_check_mark
 Bloco 1: Unix, Bash e Shell Script
  1.3 - Fundamentos do Desenvolvimento Web
+ 
  1.3 - Introdução - Unix & Shell
  1.3 - Unix & Bash - Parte 1
  1.4 - Unix & Bash - Parte 2
