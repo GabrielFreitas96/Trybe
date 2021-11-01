@@ -1,0 +1,41 @@
+h1{
+    color: darkkhaki;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+ }
+ 
+ 
+ p{
+     font-size: 3em;
+     text-align: center;
+     font-style: italic;
+ }
+ body {
+     font-size: 16px;
+     
+ }   
+ .azul{
+     background-color: blue;
+     font-weight: bold;
+     text-align: center;
+     color: white
+ }
+ .cinza{
+     background-color:gray;
+     font-weight: bold;
+     text-align: center;
+     color: white ;
+ }
+ .preto{
+     background-color: black;
+     font-weight: bold;
+     text-align: center;
+     color: white ;
+ }
+ .bege{
+     background-color: rgb(245,245,220);
+     font-weight: bold;
+     text-align: center;
+     color:white;
+ }
