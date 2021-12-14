@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pagina</title>
+</head>
+<body>
+<div>
+  <span>0</span>
+  <br><br>
+  <button id="enviar">ENVIAR</button>
+</div>
+<script>
+  console.log("aaaaaaa");
+const enviar = document.getElementById('enviar');
+let clickCount  = 0;
+function contador () {
+  clickCount  = clickCount  +1;
+  const span = document.querySelector('span');
+  console.log(span);
+  span.innerText = clickCount;
+}
+
+addEventListener('click', contador);
+</script>  
+</body>
+</html>

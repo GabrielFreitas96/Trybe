@@ -1,0 +1,103 @@
+.header{
+    background-color: red;
+    text-align: center;    
+    color: aqua;
+    font-family: 'Times New Roman',Arial, Times, serif;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 0;
+    padding: 0;
+    position: static;
+    top: fixed;
+    
+    }
+
+.nav{
+    background-color: beige;
+    text-align: left;
+    }
+.nav li {
+    display: inline;
+    font-size: 15px;
+}
+
+.article{
+    align-items: center;
+    text-align: center;
+
+}
+.article h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    
+}
+.article h3{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+}
+article ul{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.img {
+    align-items: center;
+}
+
+.fato1{
+
+}
+
+.fato1 h1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.fato1 p {
+    text-align: justify;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 4em;
+}
+
+.fato2{
+
+}
+
+.fato2 h1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.fato2 p {
+    text-align: justify;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 4em;
+}
+
+.ref{ 
+    
+}
+.ref h4{ 
+   
+
+}
+
+.ref ul{
+    line-height: 2em;
+    
+}
+
+.tent {
+    background-color:red;
+}
+
+.video{
+
+}
