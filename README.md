@@ -1,6 +1,5 @@
 
 # Trybe - Exercício :rocket::rocket::rocket:
->>>>>>> 8c3c437e78cbfec8d72f3b1196aed477c36c6bf8
 
   Contém todas as atividades desenvolvidas por [Gabriel Batista Freitas](https://www.linkedin.com/in/gabriel-freitas-b90951a9/) enquanto estudante da [Trybe](https://www.betrybe.com/)
 
