@@ -1,4 +1,4 @@
-const techList = (name,array) => {
+const techList = (array,name) => {
  let result = [];
  if (array.length === 0) {
    return 'Vazio!';
@@ -12,4 +12,5 @@ const techList = (name,array) => {
 const list = ['JavaScript', 'Html', 'CSS', 'Jest', 'React'];
 const name = 'Lucas';
 module.exports = techList;
-console.log(techList(name,[]));
+// console.log(techList(list,name));
+console.log(techList([],name));
