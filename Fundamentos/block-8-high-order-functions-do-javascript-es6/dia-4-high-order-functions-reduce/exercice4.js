@@ -63,21 +63,15 @@ const books = [
 
 
 const longestNamedBook = (books) => {
-  const index = books.reduce((acc,item,index) => {
-    let result;
-    let resultIndex;
-    console.log(item.name);
-    console.log(acc);
-    if (item.name.lenght > acc) {
-      acc = item.name.lenght;
-      result = item.name;
-      resultIndex = index;
-    };
-    //console.log(resultIndex);
-    //console.log(result);
-    return resultIndex;
-  },0);
-return books[index];
+ return books.reduce((acc, curent) => {
+  // console.log('Acc :', acc);
+  // console.log('item:', curent);
+  if (curent.name.length > acc.name.length) {
+    return curent;
+  }
+  return acc;
+});
 };
+
 
 console.log(longestNamedBook(books));
