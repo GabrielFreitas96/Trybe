@@ -56,16 +56,12 @@
   * 7.4 - Projeto - JavaScript Testes Unitários:heavy_check_mark:
 * Bloco 8: Higher Order Functions do JavaScript ES6:heavy_check_mark:
   * 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort:heavy_check_mark:
-  * 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-  * 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-  * 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-  * 8.5 - Projeto - Zoo functions
-* Bloco 9: JavaScript Assíncrono e Promises
-  * 9.1 - JavaScript Assíncrono e Callbacks
-  * 9.2 - JavaScript Promises
-  * 9.3 - Projeto - Carrinho de Compras
-Bloco 10: Testes automatizados com Jest
-  * 10.1 - Primeiros passos no Jest
-  * 10.2 - Jest - Testes Assíncronos
-  * 10.3 - Jest - Simulando comportamentos
-  * 10.4 - Projeto - Jest Assíncrono e Mocking
+  * 8.2 - JavaScript ES6 - Higher Order Functions - map e filter:heavy_check_mark:
+  * 8.3 - JavaScript ES6 - Higher Order Functions - reduce:heavy_check_mark:
+  * 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais:heavy_check_mark:
+  * 8.5 - Projeto - Zoo functions:heavy_check_mark:
+* Bloco 9: JavaScript Assíncrono e Promises:heavy_check_mark:
+  * 9.1 - JavaScript Assíncrono e Callbacks:heavy_check_mark:
+  * 9.2 - JavaScript Promises:heavy_check_mark:
+  * 9.3 - Projeto - Carrinho de Compras:heavy_check_mark:
+
